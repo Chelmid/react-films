@@ -10,3 +10,7 @@ Les Languages utilisés:
 * React
 * Redux
 * boostrap
+
+Démmarre le projet
+
+> npm start
